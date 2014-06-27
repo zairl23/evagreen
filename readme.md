@@ -27,3 +27,17 @@ or using in an exsiting project
 in the project directory
 
         compass install compass
+
+**if you quick launch, you can use them**
+
+foudation:
+
+	http://foundation.zurb.com/docs
+
+or
+
+bootstrap:
+
+	http://getbootstrap.com/
+
+enjoy it！
