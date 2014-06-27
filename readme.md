@@ -33,6 +33,7 @@ in the project directory
 foudation:
 
 	http://foundation.zurb.com/docs
+	http://foundation.zurb.com/prototyping.html
 
 or
 
@@ -41,3 +42,14 @@ bootstrap:
 	http://getbootstrap.com/
 
 enjoy it！
+
+or built on wordpress:
+
+	http://themefortress.com/reverie/ -- buid on foundation
+
+	https://github.com/milohuang/reverie -- github 
+
+
+	http://roots.io/ -- build on bootstrap
+
+	https://github.com/roots/roots --github
